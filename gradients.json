@@ -808,5 +808,13 @@
     {
         "name": "Very Blue",
         "colors": ["#0575E6", "#021B79"]
+    },
+    {
+        "name": "IndieDev Purple",
+        "colors": ["#0b0914", "#15142c"]
+    },
+    {
+        "name": "IndieDev Pink",
+        "colors": ["#2a0033", "#e87dff"]
     }
 ]
